@@ -15,7 +15,7 @@ UI Clone - Github Interface
 
 ## Participants
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/vtorres96)
+[<img src="https://avatars3.githubusercontent.com/u/40577101?s=460&v=4" width="75px;"/>](https://github.com/vtorres96)
 
 [Victor Torres](https://github.com/vtorres96)
 
